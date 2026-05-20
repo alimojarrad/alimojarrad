@@ -11,8 +11,3 @@ My name is Ali, and I'm currently working on creating my neural netwrok<br>
 ![](https://github-readme-stats.vercel.app/api?username=alimojarrad&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=alimojarrad&theme=one_dark_pro&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alimojarrad&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=alimojarrad&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
